@@ -1,0 +1,85 @@
+.header-tl {
+    font-size: 60px;
+    font-weight: 700px;
+    text-align: center;
+    color: blue;
+}
+
+.hd {
+    font-size: 40px;
+    font-weight: 200px;
+    text-align: center;
+}
+
+#fd {
+    width: 300px;
+    height: 280px;
+    display: block;
+    margin: 0px auto;
+}
+
+.ori>h2 {
+    font-size: 50px;
+    font-weight: 40px;
+    text-align: center;
+}
+
+.ach {
+    font-size: 40px;
+    font-weight: 280;
+    text-align: center;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+div.ori {
+    background-color: white;
+    padding: 15px;
+    margin: 20px;
+}
+
+
+h2.lh {
+    font-size: 50px;
+    font-weight: 200;
+    text-align: center;
+}
+
+
+
+
+img.wiki {
+    width: 90px;
+    height: 75px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 70px;
+    clear: right;
+}
+button.btn {
+width: 350px;
+height: 60px;
+font-size: 20px;
+font-weight: 300px;
+background-color: blue;
+
+clear: both;
+margin: 70px 400px;
+margin-bottom: 10px;
+border: 10px solid red, blue;
+border-radius: 20px;
+/* falta poner border-color gradient*/
+}
+
+img.google {
+    width: 200px;
+    height: 50px;
+    float: right;
+    clear: left;
+    margin-bottom: 80px;
+    
+}
+
+

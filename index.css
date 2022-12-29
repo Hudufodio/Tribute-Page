@@ -1,102 +1,102 @@
 .header-tl {
-    font-size: 60px;
-    font-weight: 700px;
-    text-align: center;
-    color: blue;
+  font-size: 60px;
+  font-weight: 700px;
+  text-align: center;
+  margin: 0px;
+}
+
+header > h2,
+h3 {
+  margin: 0px;
 }
 
 .hd {
-    font-size: 40px;
-    font-weight: 200px;
-    text-align: center;
+  font-size: 40px;
+  font-weight: 200px;
+  text-align: center;
 }
 
 #fd {
-    width: 300px;
-    height: 280px;
-    display: block;
-    margin: 0px auto;
+  width: 300px;
+  height: 280px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 20px;
 }
 
-.ori>h2 {
-    font-size: 50px;
-    font-weight: 40px;
-    text-align: center;
+.ori > h2 {
+  font-size: 50px;
+  font-weight: 40px;
+  text-align: center;
 }
 
 .ach {
-    font-size: 40px;
-    font-weight: 280;
-    text-align: center;
+  font-size: 40px;
+  font-weight: 280;
+  text-align: center;
 }
 
 body {
-    background-color: cadetblue;
+  background-color: cadetblue;
 }
 
 div.ori {
-    background-color: white;
-    padding: 15px;
-    margin: 20px;
+  background-color: white;
+  padding: 15px;
+  margin: 20px;
 }
 
-
 h2.lh {
-    font-size: 50px;
-    font-weight: 200;
-    text-align: center;
+  font-size: 50px;
+  font-weight: 200;
+  text-align: center;
 }
 
 div.btn {
-    width: 250px;
-    height: 60px;
-    background-position: 20px;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    border-radius: 20px;
-    text-align: center; 
+  width: 250px;
+  height: 60px;
+  background-position: 20px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 20px;
+  text-align: center;
 }
 
 .btn-text {
-    font: 400;
-    font-family: sans-serif;
-    font-weight: 500;
-    font-size: large;
-    padding: 18px;
-    border-radius: 20px;
+  font: 400;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: large;
+  padding: 18px;
+  border-radius: 20px;
 }
 .btn:hover {
-    width: 260px;
-    height: 65px;
-    text-decoration: underline;
-    background-color: brown;
+  width: 260px;
+  height: 65px;
+  text-decoration: underline;
+  background-color: brown;
 }
 .btn-text:hover {
-    text-transform: capitalize;
-    color: blue;
-    animation: forwards;
+  text-transform: capitalize;
+  color: blue;
+  animation: forwards;
 }
-
-
 
 img.wiki {
-    width: 90px;
-    height: 75px;
-    float: none;
-    margin-top: 50px;
-    margin-left: 120px;
-    clear: right;
+  width: 90px;
+  height: 75px;
+  float: none;
+  margin-top: 50px;
+  margin-left: 120px;
+  clear: right;
 }
 img.google {
-    width: 200px;
-    height: 50px;
-    float: right;
-    margin-top: 50px;
-    margin-right: 120px;
-    clear: left;
-    
+  width: 200px;
+  height: 50px;
+  float: right;
+  margin-top: 50px;
+  margin-right: 120px;
+  clear: left;
 }
-
-

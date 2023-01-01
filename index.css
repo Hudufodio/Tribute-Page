@@ -7,6 +7,8 @@
 
 header > h2,
 h3 {
+  font-size: 40px;
+  font-weight: 200;
   margin: 0px;
 }
 
@@ -18,21 +20,15 @@ h3 {
 
 #fd {
   width: 300px;
-  height: 280px;
+  height: 340px;
   display: block;
   margin: 20px auto;
   border-radius: 20px;
 }
 
-.ori > h2 {
-  font-size: 50px;
-  font-weight: 40px;
-  text-align: center;
-}
-
-.ach {
+.ori > h2 .ach {
   font-size: 40px;
-  font-weight: 280;
+  font-weight: 280px;
   text-align: center;
 }
 

@@ -1,4 +1,4 @@
-# Tribute-Page
+# Tribute-Page(work in progress)
 
 About Usman
 A religious cleric,founder and philosopher who founded the sokoto caliphate and ruled as its first caliph.

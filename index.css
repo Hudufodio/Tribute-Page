@@ -1,3 +1,8 @@
+* {
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
 .header-tl {
   font-size: 60px;
   font-weight: 700px;
@@ -26,14 +31,15 @@ h3 {
   border-radius: 20px;
 }
 
-.ori > h2 .ach {
-  font-size: 40px;
-  font-weight: 280px;
+h2 {
+  font-size: 30px;
+  font-weight: 200px;
   text-align: center;
+  text-decoration: none;
 }
 
 body {
-  background-color: cadetblue;
+  background-color: #609d9fbd;
 }
 
 div.ori {
@@ -42,16 +48,9 @@ div.ori {
   margin: 20px;
 }
 
-h2.lh {
-  font-size: 50px;
-  font-weight: 200;
-  text-align: center;
-}
-
 div.btn {
-  width: 250px;
-  height: 60px;
-  background-position: 20px;
+  width: 230px;
+  height: 40px;
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -65,19 +64,12 @@ div.btn {
   font-family: sans-serif;
   font-weight: 500;
   font-size: large;
-  padding: 18px;
+  padding: 8px;
   border-radius: 20px;
 }
-.btn:hover {
-  width: 260px;
-  height: 65px;
-  text-decoration: underline;
-  background-color: brown;
-}
-.btn-text:hover {
-  text-transform: capitalize;
-  color: blue;
-  animation: forwards;
+
+a {
+  text-decoration: none;
 }
 
 img.wiki {

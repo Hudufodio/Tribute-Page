@@ -1,0 +1,91 @@
+* {
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.header-tl {
+  font-size: 60px;
+  font-weight: 700px;
+  text-align: center;
+  margin: 0px;
+}
+
+header > h2,
+h3 {
+  font-size: 40px;
+  font-weight: 200;
+  margin: 0px;
+}
+
+.hd {
+  font-size: 40px;
+  font-weight: 200px;
+  text-align: center;
+}
+
+#fd {
+  width: 300px;
+  height: 340px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 20px;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 200px;
+  text-align: center;
+  text-decoration: none;
+}
+
+body {
+  background-color: rgba(96, 157, 159, 0.7411764706);
+}
+
+div.ori {
+  background-color: white;
+  padding: 15px;
+  margin: 20px;
+}
+
+div.btn {
+  width: 230px;
+  height: 40px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.btn-text {
+  font: 400;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: large;
+  padding: 8px;
+  border-radius: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+img.wiki {
+  width: 90px;
+  height: 75px;
+  float: none;
+  margin-top: 50px;
+  margin-left: 120px;
+  clear: right;
+}
+
+img.google {
+  width: 200px;
+  height: 50px;
+  float: right;
+  margin-top: 50px;
+  margin-right: 120px;
+  clear: left;
+}/*# sourceMappingURL=index.css.map */
